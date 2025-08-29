@@ -12,3 +12,6 @@ aa
 Sample website with plenty of files for demos
 
 ## How to Controbute
+
+### Copyright
+2025 Bthn
