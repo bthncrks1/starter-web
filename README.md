@@ -13,6 +13,6 @@ aaaaa
 Sample website with plenty of files for demos
 
 ## How to Controbute
-
+Please fork thish repository and then issue Pull Requests for review
 ### Copyright
 2025 Bthn
